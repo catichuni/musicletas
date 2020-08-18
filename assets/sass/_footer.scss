@@ -1,0 +1,37 @@
+/* Subscribite a Youtube */
+.subscribite{
+  background-color: $blanco;
+  color: $aqua;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 200px;
+}
+.subscribite__container{
+      padding-left:5%;
+      padding-right:5%;
+}
+
+
+/* Footer */
+.footer {
+    background-color: $aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 300px;
+  }
+  
+  .socialmediaFooter {
+    display: flex;
+  }
+  
+  .icons {
+    background-color: $blanco;
+    color: $aqua;
+  }
+  
+ 
+
+
+
